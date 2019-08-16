@@ -1,7 +1,7 @@
 from tkinter import *
 import parser
 root = Tk()
-root.title("Martin's Calculator")
+root.title("Basic Calculator")
 # root.geometry("500x500")
 root.configure(background = 'Blue')
 
